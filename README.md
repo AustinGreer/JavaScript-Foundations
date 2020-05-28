@@ -74,7 +74,7 @@ Follow these steps for completing your project.
 
 ## Resources
 
-🧮 [Detailed Walk-through of Mortgage Calculations](https://www.valuepenguin.com/mortgages/mortgage-payments-calculator)
+🧮 [Detailed Walk-through of Mortgage Calculations](https ://www.valuepenguin.com/mortgages/mortgage-payments-calculator)
 
 👀 [Mortgage Calculator Web App for Inspiration](https://www.bankrate.com/calculators/mortgages/mortgage-calculator.aspx)
 
